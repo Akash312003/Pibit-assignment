@@ -1,0 +1,116 @@
+
+{
+    "Name": "AKASH J",
+    "RollNo": "RA2111003020528",
+    "Course": "B.Tech, CSE",
+    "GradYear": "2025",
+    "Email": "aj8844@srmist.edu.in",
+    "Mobile": "7904146356",
+    "AcademicDetails": [
+        {
+            "Qualification": "CLASS X",
+            "Institute": "URC Palaniammal Matric Higher Secondary School",
+            "Board": "Tamil Nadu Board of Secondary Education (DGE)",
+            "Score": "414 MARKS",
+            "Year": "2019"
+        },
+        {
+            "Qualification": "CLASS XII",
+            "Institute": "Erode Hindu Kalvi Nilayam - Matric Higher Secondary School",
+            "Board": "Tamil Nadu Board of Secondary Education (DGE)",
+            "Score": "512 MARKS",
+            "Year": "2021"
+        },
+        {
+            "Qualification": "B.Tech",
+            "Institute": "SRM Institute of Science and Technology - Ramapuram Campus",
+            "Score": "9.46 CGPA",
+            "Year": "2025"
+        }
+    ],
+    "Subjects": [
+        "Operating System",
+        "Object-Oriented Programming",
+        "Database Management System",
+        "Data Structures and Algorithms",
+        "Computer Networks",
+        "Compiler Design"
+    ],
+    "TechnicalProficiency": [
+        "C Programming",
+        "MongoDB",
+        "Python",
+        "React.js",
+        "Express.js",
+        "Tailwind CSS",
+        "JavaScript",
+        "C++",
+        "HTML + CSS",
+        "SQL",
+        "Node.js"
+    ],
+    "WorkExperience": [
+        {
+            "Title": "C++ Programming",
+            "Company": "CodSoft",
+            "StartDate": "Sep 2023",
+            "EndDate": "Oct 2023",
+            "Description": "Demonstrated proficiency in object-oriented programming and design techniques, utilizing C++ to build efficient and scalable solutions. Acquired knowledge of advanced C++ concepts, such as thread synchronization, multithreading, concurrency, and TCP/IP socket programming. Implemented best practices for code optimization, performance tuning, and memory management in C++ applications."
+        },
+        {
+            "Title": "Python Development",
+            "Company": "CodersCave",
+            "StartDate": "Sep 2023",
+            "EndDate": "Sep 2023",
+            "Description": "I had the opportunity to apply and enhance my programming skills. Over the course of the internship, I engaged in various projects and tasks, gaining valuable hands-on experience in Python and related technologies."
+        },
+        {
+            "Title": "MERN Blogfolio",
+            "Company": "Full Stack Web Development",
+            "StartDate": "Jan 2024",
+            "EndDate": "Feb 2024",
+            "Description": "Developed a full-stack blog website using the MERN stack (MongoDB, Express.js, React.js, and Node.js) to create a dynamic and interactive blogging platform. Implemented user authentication and authorization features to ensure secure access to the blog, allowing users to register, log in, and manage their accounts. Utilized MongoDB as the database to store blog posts, user information, and other relevant data, leveraging its flexibility and scalability for efficient data management. Implemented cloud storage functionality to allow users to upload and manage images or other media files associated with their blog posts."
+        },
+        {
+            "Title": "Trip - Travel Website",
+            "Company": "Web Development",
+            "StartDate": "Sep 2023",
+            "EndDate": "Oct 2023",
+            "Description": "To accomplish this, I utilized my skills in HTML, CSS, and JavaScript to develop the front-end of the website. I implemented responsive design principles, ensuring that the website adapts to different screen sizes and devices. I utilized media queries to apply specific styles and layouts based on the user's device. To enhance user interactions and engagement, I incorporated JavaScript functionality. This included features such as dynamic dropdown menus, interactive image sliders. The website's UI was designed with a focus on aesthetics and usability. I carefully selected color schemes, fonts, and imagery that resonated with the travel theme and created an inviting atmosphere for users. The layout and navigation were designed to be intuitive, allowing users to easily find and access relevant information."
+        },
+        {
+            "Title": "Coin Search",
+            "Company": "Web Development",
+            "StartDate": "Jul 2023",
+            "EndDate": "Aug 2024",
+            "Description": "Created a cryptocurrency website utilizing ReactJS, HTML, CSS, and JavaScript, seamlessly integrating APIs to provide real-time data on 100 cryptocurrencies, prominently featuring Bitcoin. This platform offers comprehensive insights into key metrics such as price, 24-hour price change, volume, market capitalization, accompanied by succinct descriptions for each cryptocurrency. Employing responsive design principles, I ensured optimal usability across diverse devices, enhancing user experience. This project highlights my adeptness in front-end development, API utilization, and dynamic JavaScript functionalities. It underscores my ability to deliver user-centric solutions in the ever-evolving cryptocurrency landscape, showcasing technical proficiency and a commitment to excellence in web development."
+        }
+    ],
+    "Projects": [
+        "https://github.com/Akash312003/mern-blog2.0",
+        "https://github.com/Akash312003/Trip-Travel-Website",
+        "https://github.com/Akash312003/Coin-Search"
+    ],
+    "PersonalDetails": {
+        "DateOfBirth": "31 October 2003",
+        "FathersName": "Jayaganesh J",
+        "PermanentAddress": "31, Vasantham Grden, Merkku Pudur, Nasiyanur, Erode, Erode, Tamil Nadu, PIN - 638107",
+        "LanguagesKnown": ["English", "Tamil"],
+        "PermanentContactNumber": "7904146356",
+        "Nationality": "INDIAN",
+        "PassportAvailability": "No"
+    },
+    "Certifications": [
+        {
+            "Title": "Complete React Developer",
+            "Authority": "Udemy",
+            "Description": "Successfully completed a comprehensive React developer course, gaining in-depth knowledge and practical experience in building dynamic and interactive web applications using React.js. Developed proficiency in React.js concepts, including component-based architecture, state management, and virtual DOM manipulation. Acquired knowledge of front-end development tools and technologies, including Git for version control, package managers like npm and build tools like Webpack"
+        },
+        {
+            "Title": "The Complete 2024 Web Development Bootcamp",
+            "Authority": "Udemy",
+            "Description": "I recently successfully completed an intensive web development bootcamp course, a transformative journey that provided me with a solid foundation in various aspects of web development. Throughout the course, I engaged in a dynamic curriculum, gaining practical skills, and honing my abilities in creating modern, responsive, and feature-rich web applications."
+        }
+    ],
+    "ExtraCurricularActivities": ["Playing", "Travelling", "Watching Movies"]
+}
